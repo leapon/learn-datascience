@@ -1,4 +1,4 @@
-# learn-datascience
+# Learn Data Science
 
 # Git Setup
 ```
